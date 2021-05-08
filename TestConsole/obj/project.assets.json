@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "UtilsLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/UtilsLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UtilsLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UtilsLibrary/1.0.0": {
+      "type": "project",
+      "path": "../UtilsLibrary/UtilsLibrary.csproj",
+      "msbuildProject": "../UtilsLibrary/UtilsLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "UtilsLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\kumaam\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\POC\\DreamBig\\SSS\\Banking\\Utils\\TestConsole\\TestConsole.csproj",
+      "projectName": "TestConsole",
+      "projectPath": "D:\\POC\\DreamBig\\SSS\\Banking\\Utils\\TestConsole\\TestConsole.csproj",
+      "packagesPath": "C:\\Users\\kumaam\\.nuget\\packages\\",
+      "outputPath": "D:\\POC\\DreamBig\\SSS\\Banking\\Utils\\TestConsole\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\kumaam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://mol-it-nuget.azurewebsites.net/nuget": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "D:\\POC\\DreamBig\\SSS\\Banking\\Utils\\UtilsLibrary\\UtilsLibrary.csproj": {
+              "projectPath": "D:\\POC\\DreamBig\\SSS\\Banking\\Utils\\UtilsLibrary\\UtilsLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

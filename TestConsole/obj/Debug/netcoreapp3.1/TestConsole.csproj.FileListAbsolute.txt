@@ -1,0 +1,16 @@
+D:\POC\DreamBig\SSS\Banking\Utils\TestConsole\bin\Debug\netcoreapp3.1\TestConsole.exe
+D:\POC\DreamBig\SSS\Banking\Utils\TestConsole\bin\Debug\netcoreapp3.1\TestConsole.deps.json
+D:\POC\DreamBig\SSS\Banking\Utils\TestConsole\bin\Debug\netcoreapp3.1\TestConsole.runtimeconfig.json
+D:\POC\DreamBig\SSS\Banking\Utils\TestConsole\bin\Debug\netcoreapp3.1\TestConsole.runtimeconfig.dev.json
+D:\POC\DreamBig\SSS\Banking\Utils\TestConsole\bin\Debug\netcoreapp3.1\TestConsole.dll
+D:\POC\DreamBig\SSS\Banking\Utils\TestConsole\bin\Debug\netcoreapp3.1\TestConsole.pdb
+D:\POC\DreamBig\SSS\Banking\Utils\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.csprojAssemblyReference.cache
+D:\POC\DreamBig\SSS\Banking\Utils\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.AssemblyInfoInputs.cache
+D:\POC\DreamBig\SSS\Banking\Utils\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.AssemblyInfo.cs
+D:\POC\DreamBig\SSS\Banking\Utils\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.csproj.CoreCompileInputs.cache
+D:\POC\DreamBig\SSS\Banking\Utils\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.dll
+D:\POC\DreamBig\SSS\Banking\Utils\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.pdb
+D:\POC\DreamBig\SSS\Banking\Utils\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.genruntimeconfig.cache
+D:\POC\DreamBig\SSS\Banking\Utils\TestConsole\bin\Debug\netcoreapp3.1\UtilsLibrary.dll
+D:\POC\DreamBig\SSS\Banking\Utils\TestConsole\bin\Debug\netcoreapp3.1\UtilsLibrary.pdb
+D:\POC\DreamBig\SSS\Banking\Utils\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.csproj.CopyComplete

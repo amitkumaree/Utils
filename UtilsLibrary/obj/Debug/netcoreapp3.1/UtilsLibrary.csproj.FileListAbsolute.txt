@@ -1,0 +1,9 @@
+D:\POC\DreamBig\SSS\Banking\Utils\UtilsLibrary\obj\Debug\netcoreapp3.1\UtilsLibrary.csprojAssemblyReference.cache
+D:\POC\DreamBig\SSS\Banking\Utils\UtilsLibrary\obj\Debug\netcoreapp3.1\UtilsLibrary.AssemblyInfoInputs.cache
+D:\POC\DreamBig\SSS\Banking\Utils\UtilsLibrary\obj\Debug\netcoreapp3.1\UtilsLibrary.AssemblyInfo.cs
+D:\POC\DreamBig\SSS\Banking\Utils\UtilsLibrary\obj\Debug\netcoreapp3.1\UtilsLibrary.csproj.CoreCompileInputs.cache
+D:\POC\DreamBig\SSS\Banking\Utils\UtilsLibrary\bin\Debug\netcoreapp3.1\UtilsLibrary.deps.json
+D:\POC\DreamBig\SSS\Banking\Utils\UtilsLibrary\bin\Debug\netcoreapp3.1\UtilsLibrary.dll
+D:\POC\DreamBig\SSS\Banking\Utils\UtilsLibrary\bin\Debug\netcoreapp3.1\UtilsLibrary.pdb
+D:\POC\DreamBig\SSS\Banking\Utils\UtilsLibrary\obj\Debug\netcoreapp3.1\UtilsLibrary.dll
+D:\POC\DreamBig\SSS\Banking\Utils\UtilsLibrary\obj\Debug\netcoreapp3.1\UtilsLibrary.pdb
